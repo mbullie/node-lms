@@ -1,0 +1,22 @@
+{
+  "name": "node-lms",
+  "version": "1.0.0",
+  "description": "Learning management system written in Nodejs Typsescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbullie/node-lms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbullie/node-lms/issues"
+  },
+  "homepage": "https://github.com/mbullie/node-lms#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
